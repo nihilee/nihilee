@@ -2,7 +2,6 @@
 ### This is nihilee!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/nihilee)
-[![QQ](https://img.shields.io/badge/-QQ-c14438?style=flat&logo=QQ&logoColor=white)](mailto:120684728@1qq.com)
 
 Welcome to my Github page!  
 
@@ -10,12 +9,15 @@ Welcome to my Github page!
 
 
 #### 🌱 Things I am currently working on: 
--
--
+- some bio-info work in simceredx(NanJing,CHINA)
+- 
+...
 
 #### :muscle: Things I am challenging myself with:
--
--
+- Learning Rust and Nim
+- Coding at least 2h/d
+- Exercising 3d/w
+...
 
 #### :computer: Programming languages and tools: 
 <p>
