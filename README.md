@@ -11,13 +11,13 @@ Welcome to my Github page!
 #### 🌱 Things I am currently working on: 
 - some bio-info work in simceredx(NanJing,CHINA)
 - 
-...
+- ...
 
 #### :muscle: Things I am challenging myself with:
 - Learning Rust and Nim
 - Coding at least 2h/d
 - Exercising 3d/w
-...
+- ...
 
 #### :computer: Programming languages and tools: 
 <p>
