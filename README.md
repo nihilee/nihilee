@@ -9,7 +9,7 @@ Welcome to my Github page!
 
 
 #### 🌱 Things I am currently working on: 
-- some bio-info work in simceredx(NanJing,CHINA)
+- Some bio-info work in simceredx(NanJing,CHINA)
 - 
 - ...
 
