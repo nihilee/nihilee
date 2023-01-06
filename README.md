@@ -9,12 +9,12 @@ Welcome to my Github page!
 
 
 #### 🌱 Things I am currently working on: 
-- Some bio-info work in simceredx (NanJing, CHINA)
+- Some bio-info work
 -  
 
 
 #### :muscle: Things I am challenging myself with:
-- Learning Rust and Nim
+- Learning Rust and Python
 - Coding at least 2h/d
 - Exercising 3d/w
 
